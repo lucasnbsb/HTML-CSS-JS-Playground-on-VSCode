@@ -11,6 +11,9 @@ Better auto-complete and tooling, plus you won't be working in code pen.
 2. Open index.html
 3. Run in the live server ( F1 > Open in live server )
 
+![this is how it looks](https://user-images.githubusercontent.com/2169955/224556929-0b4318aa-9776-438b-936a-803564606483.png)
+
+
 ### **What do I do with it?**
 
 - Learn [HTML](https://web.dev/learn/html/) from the chrome team
@@ -19,3 +22,4 @@ Better auto-complete and tooling, plus you won't be working in code pen.
   - Learn [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - learn [flexbox](https://tobiasahlin.com/blog/common-flexbox-patterns/) but from the dude that made the Minecraft menu.
 - Learn basic [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
