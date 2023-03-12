@@ -1,0 +1,8 @@
+{
+  // Install these for a better experience with this workspace.
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer",
+    "ecmel.vscode-html-css"
+  ]
+}
